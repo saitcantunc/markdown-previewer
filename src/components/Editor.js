@@ -1,7 +1,7 @@
 import React from "react";
 
-const Editor = () => {
-	return <div>Editor</div>;
+const Editor = ({ content, handleTextChange }) => {
+	return <textarea value={content} onChange={handleTextChange} />;
 };
 
 export default Editor;

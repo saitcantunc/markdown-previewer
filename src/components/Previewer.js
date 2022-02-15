@@ -1,7 +1,7 @@
 import React from "react";
 
-const Previewer = () => {
-	return <div>Previewer</div>;
+const Previewer = ({ content }) => {
+	return <div className='preview'>{content}</div>;
 };
 
 export default Previewer;
