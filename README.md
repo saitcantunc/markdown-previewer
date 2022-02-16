@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+## Installation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+After download this project in your PC, you have to install marked and prismjs
+
+`npm i marked`
+
+`npm i prismjs`
+
+## Image
+
+![image](https://user-images.githubusercontent.com/73478972/154225217-7d648f87-da35-4acc-aff9-53f1bbdf18e5.png)
 
 ## Available Scripts
 
